@@ -1,0 +1,17 @@
+.search-box {
+  display: flex;
+  background-color: #ffffff;
+  width: 160px;
+  height: 20px;
+}
+
+.search-label {
+  width: 20px;
+  height: 20px;
+}
+.search-input-field {
+  width: 100%;
+  border-width: 0px;
+  outline: none;
+  border-left: 0.5px solid #b6c3ca;
+}
